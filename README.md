@@ -16,6 +16,6 @@ After completing the above steps, click run app in `WSB-viz/app.R`
 
 # Notes
 
-This was a project with [Simon Ahn](https://github.com/ahnsb5117) and [Taylor Blair](https://github.com/Goodernews) in [Kelly McConville's](https://github.com/mcconvil) Data Science 241 class at Reed College.
+Authors: [Jiarong Li](https://github.com/jialicatherine), [Simon Ahn](https://github.com/ahnsb5117), [Taylor Blair](https://github.com/Goodernews) 
 
 ShinyApp Dashboard Link：https://jialicatherine.shinyapps.io/WSB-viz/
